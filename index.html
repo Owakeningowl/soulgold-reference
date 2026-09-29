@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SoulGold Reference</title>
-<meta name="description" content="Trainer sheet, Pokédex and damage calculator for the SoulGold difficulty hack.">
+<title>Zenith Gold Reference</title>
+<meta name="description" content="Trainer sheet, Pokédex and damage calculator for Pokémon Zenith Gold.">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;600;700&display=swap">
 <style>
 .sg-nav { display: flex; gap: 4px; flex-wrap: wrap; align-items: center; padding: 6px 16px; background: #121317;
@@ -39,15 +39,15 @@ a { color: var(--accent); }
 </style>
 </head>
 <body>
-<nav class="sg-nav" aria-label="Site"><span class="brand">SoulGold</span><a href="./" class="on">Home</a><a href="trainers.html" class="">Trainer Sheet</a><a href="dex/" class="">Pokédex</a><a href="calc.html" class="">Calculator</a></nav>
+<nav class="sg-nav" aria-label="Site"><span class="brand">Zenith Gold</span><a href="./" class="on">Home</a><a href="trainers.html" class="">Trainer Sheet</a><a href="calc/#dex" class="">Pokédex</a><a href="calc/" class="">Calculator</a></nav>
 <main>
-  <h1>Soul<span>Gold</span> Reference</h1>
-  <p class="lede">Everything for the SoulGold difficulty hack in one place: every trainer's team, a Showdown-style Pokédex with
-  every wild encounter, and a damage calculator with all trainer sets preloaded.</p>
+  <h1>Zenith <span>Gold</span> Reference</h1>
+  <p class="lede">Everything for Pokémon Zenith Gold in one place: every trainer's team, the damage calculator with all
+  trainer sets preloaded, and a Pokédex with every learnset, ability, innate and wild encounter.</p>
   <div class="cards">
     <a class="card" href="trainers.html"><b>Trainer Sheet</b><span>Every fight, split by split, with items, abilities, innates and notes.</span></a>
-    <a class="card" href="dex/"><b>Pokédex</b><span>Stats, abilities and innates, learnsets, evolutions and every encounter (day / night, all rods).</span></a>
-    <a class="card" href="calc.html"><b>Damage Calc</b><span>Every trainer set preloaded, in-game sprites, dark mode. Import your team from mGBA.</span></a>
+    <a class="card" href="calc/"><b>Damage Calc</b><span>Pokémon Null's calc with this game's data: every trainer set preloaded, import your team from mGBA.</span></a>
+    <a class="card" href="calc/#dex"><b>Pokédex</b><span>Stats, Null abilities and innates, learnsets, evolutions and every wild encounter.</span></a>
     <a class="card" href="soulgold_export.lua" download><b>mGBA exporter</b><span>Lua script that exports your party and PC boxes as Showdown sets for the calc.</span></a>
   </div>
 
@@ -62,14 +62,16 @@ a { color: var(--accent); }
     <li>In mGBA (0.10 or newer) with the game running: <b>Tools → Scripting…</b>, then <b>File → Load script…</b>.</li>
     <li>Your party and PC boxes appear in the <b>SoulGold sets</b> tab and in <code>soulgold_sets.txt</code> next to the script,
       updating as you play.</li>
-    <li>In the calculator press <b>Import team</b> and paste the text (or load the .txt file).</li>
+    <li>In the calculator, paste the text into its import box (under your Pokémon) and press <b>Import</b>.</li>
   </ol>
 
   <h2>Credits</h2>
-  <p class="small">SoulGold by Eemeliri and contributors, on RHH's pokeemerald-expansion. The Pokédex is the
+  <p class="small">Zenith Gold is built on SoulGold by Eemeliri and contributors, on RHH's pokeemerald-expansion; learnsets,
+  abilities and wild encounters come from Pokémon Null 1.1. The calculator is
+  <a href="https://github.com/nathanmelons/Null-Damage-Calc">Pokémon Null's calc</a> (MIT), a fork of
+  <a href="https://github.com/smogon/damage-calc">Smogon's damage calculator</a>; its Pokédex is the
   <a href="https://github.com/lhearachel/porydex">Porydex</a> build of the <a href="https://dex.pokemonshowdown.com">Pokémon Showdown</a>
-  dex (AGPL-3.0), with the dark theme from Astral's Lucid copy. Damage maths by
-  <a href="https://github.com/smogon/damage-calc">Smogon's calculator</a>. Pokémon © Nintendo / Creatures / GAME FREAK.</p>
+  dex (AGPL-3.0). Pokémon © Nintendo / Creatures / GAME FREAK.</p>
 </main>
 </body>
 </html>

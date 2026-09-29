@@ -1040,7 +1040,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
             buf += '<li class="resultheader"><h3>Good Rod</h3></li>';
             break;
           case "F":
-            buf += '<li class="resultheader"><h3>Super Rod</h3></li>';
+            buf += '<li class="resultheader"><h3>Fishing (any rod)</h3></li>';
             break;
           case "O":
             buf += '<li class="resultheader"><h3>Old Rod</h3></li>';
