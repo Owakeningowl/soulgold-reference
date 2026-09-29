@@ -1,6 +1,6 @@
 var SETDEX_SV = {
   "Marill": {
-    "Crystal / Gold": {
+    "Crystal / Gold 1": {
       "level": 6,
       "ability": "Huge Power",
       "moves": [
@@ -15,7 +15,7 @@ var SETDEX_SV = {
     }
   },
   "Eevee": {
-    "Crystal / Gold": {
+    "Crystal / Gold 1": {
       "level": 5,
       "ability": "Adaptability",
       "moves": [
@@ -135,7 +135,7 @@ var SETDEX_SV = {
     }
   },
   "Sneasel": {
-    "Silver [GRASS]": {
+    "Silver 1 vs Grass": {
       "level": 7,
       "ability": "Inner Focus",
       "moves": [
@@ -148,7 +148,7 @@ var SETDEX_SV = {
       "item": "Silk Scarf",
       "index": 9
     },
-    "Rocket Eto": {
+    "Slowpoke Well Rocket Eto": {
       "level": 23,
       "ability": "Inner Focus",
       "moves": [
@@ -161,7 +161,7 @@ var SETDEX_SV = {
       "item": "Never-Melt Ice",
       "index": 110
     },
-    "Silver [FIRE] (Azalea Town)": {
+    "Silver 2 vs Fire": {
       "level": 31,
       "ability": "Inner Focus",
       "moves": [
@@ -176,7 +176,7 @@ var SETDEX_SV = {
     }
   },
   "Gastly": {
-    "Silver [GRASS]": {
+    "Silver 1 vs Grass": {
       "level": 7,
       "ability": "Levitate",
       "moves": [
@@ -204,7 +204,7 @@ var SETDEX_SV = {
     }
   },
   "Cyndaquil": {
-    "Silver [GRASS]": {
+    "Silver 1 vs Grass": {
       "level": 8,
       "ability": "Blaze",
       "moves": [
@@ -219,7 +219,7 @@ var SETDEX_SV = {
     }
   },
   "Zubat": {
-    "Silver [FIRE]": {
+    "Silver 1 vs Fire": {
       "level": 7,
       "ability": "Inner Focus",
       "moves": [
@@ -232,7 +232,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 12
     },
-    "Rocket Grunt (Slowpoke Well)": {
+    "Slowpoke Well Rocket Grunt 2": {
       "level": 23,
       "ability": "Infiltrator",
       "moves": [
@@ -247,7 +247,7 @@ var SETDEX_SV = {
     }
   },
   "Magnemite": {
-    "Silver [FIRE]": {
+    "Silver 1 vs Fire": {
       "level": 7,
       "ability": "Sturdy",
       "moves": [
@@ -288,7 +288,7 @@ var SETDEX_SV = {
     }
   },
   "Totodile": {
-    "Silver [FIRE]": {
+    "Silver 1 vs Fire": {
       "level": 8,
       "ability": "Sheer Force",
       "moves": [
@@ -303,7 +303,7 @@ var SETDEX_SV = {
     }
   },
   "Murkrow": {
-    "Silver [WATER]": {
+    "Silver 1 vs Water": {
       "level": 7,
       "ability": "Prankster",
       "moves": [
@@ -344,7 +344,7 @@ var SETDEX_SV = {
     }
   },
   "Ralts": {
-    "Silver [WATER]": {
+    "Silver 1 vs Water": {
       "level": 7,
       "ability": "Trace",
       "moves": [
@@ -359,7 +359,7 @@ var SETDEX_SV = {
     }
   },
   "Chikorita": {
-    "Silver [WATER]": {
+    "Silver 1 vs Water": {
       "level": 8,
       "ability": "Leaf Guard",
       "moves": [
@@ -769,7 +769,7 @@ var SETDEX_SV = {
       "item": "Oran Berry",
       "index": 42
     },
-    "Silver [WATER] (Azalea Town)": {
+    "Silver 2 vs Water": {
       "level": 31,
       "ability": "Levitate",
       "moves": [
@@ -902,7 +902,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 50
     },
-    "Rocket Grunt (Slowpoke Well)": {
+    "Slowpoke Well Rocket Grunt 2": {
       "level": 22,
       "ability": "Unnerve",
       "moves": [
@@ -1473,7 +1473,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 85
     },
-    "Rocket Grunt": {
+    "Slowpoke Well Rocket Grunt": {
       "level": 22,
       "ability": "Levitate",
       "moves": [
@@ -1731,7 +1731,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 97
     },
-    "Rocket Eto": {
+    "Slowpoke Well Rocket Eto": {
       "level": 22,
       "ability": "Soundproof",
       "moves": [
@@ -1821,7 +1821,7 @@ var SETDEX_SV = {
     }
   },
   "Ekans": {
-    "Rocket Grunt": {
+    "Slowpoke Well Rocket Grunt": {
       "level": 22,
       "ability": "Intimidate",
       "moves": [
@@ -1836,7 +1836,7 @@ var SETDEX_SV = {
     }
   },
   "Raticate": {
-    "Rocket Grunt": {
+    "Slowpoke Well Rocket Grunt": {
       "level": 22,
       "ability": "Hustle",
       "moves": [
@@ -1849,7 +1849,7 @@ var SETDEX_SV = {
       "item": "Silk Scarf",
       "index": 105
     },
-    "Rocket Grunt (Rocket Hideout B1F)": {
+    "Rocket Hideout B1F Rocket Grunt": {
       "level": 58,
       "ability": "Guts",
       "moves": [
@@ -1864,7 +1864,7 @@ var SETDEX_SV = {
     }
   },
   "Grimer": {
-    "Rocket Grunt (Slowpoke Well)": {
+    "Slowpoke Well Rocket Grunt 2": {
       "level": 22,
       "ability": "Sticky Hold",
       "moves": [
@@ -1879,7 +1879,7 @@ var SETDEX_SV = {
     }
   },
   "Sandile": {
-    "Rocket Eto": {
+    "Slowpoke Well Rocket Eto": {
       "level": 23,
       "ability": "Intimidate",
       "moves": [
@@ -1907,7 +1907,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 112
     },
-    "Silver [WATER] (Azalea Town)": {
+    "Silver 2 vs Water": {
       "level": 31,
       "ability": "Prankster",
       "moves": [
@@ -1974,7 +1974,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 115
     },
-    "Silver [GRASS] (Azalea Town)": {
+    "Silver 2 vs Grass": {
       "level": 31,
       "ability": "Infiltrator",
       "moves": [
@@ -2176,7 +2176,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 127
     },
-    "Rocket Grunt (Rocket Hideout B1F)": {
+    "Rocket Hideout B1F Rocket Grunt": {
       "level": 57,
       "ability": "Insomnia",
       "moves": [
@@ -2189,7 +2189,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 526
     },
-    "Rocket Grunt (Radio Tower 4F)": {
+    "Radio Tower 4F Rocket Grunt": {
       "level": 64,
       "ability": "Insomnia",
       "moves": [
@@ -2288,7 +2288,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 645
     },
-    "Rocket Grunt (Underground)": {
+    "Underground Rocket Grunt": {
       "level": 65,
       "ability": "Moxie",
       "moves": [
@@ -2318,7 +2318,7 @@ var SETDEX_SV = {
     }
   },
   "Pawniard": {
-    "Silver [GRASS] (Azalea Town)": {
+    "Silver 2 vs Grass": {
       "level": 31,
       "ability": "Defiant",
       "moves": [
@@ -2333,7 +2333,7 @@ var SETDEX_SV = {
     }
   },
   "Magneton": {
-    "Silver [GRASS] (Azalea Town)": {
+    "Silver 2 vs Grass": {
       "level": 31,
       "ability": "Magnet Pull",
       "moves": [
@@ -2348,7 +2348,7 @@ var SETDEX_SV = {
     }
   },
   "Kadabra": {
-    "Silver [GRASS] (Azalea Town)": {
+    "Silver 2 vs Grass": {
       "level": 31,
       "ability": "Magic Guard",
       "moves": [
@@ -2363,7 +2363,7 @@ var SETDEX_SV = {
     }
   },
   "Quilava": {
-    "Silver [GRASS] (Azalea Town)": {
+    "Silver 2 vs Grass": {
       "level": 32,
       "ability": "Flash Fire",
       "moves": [
@@ -2378,7 +2378,7 @@ var SETDEX_SV = {
     }
   },
   "Houndoom": {
-    "Silver [FIRE] (Azalea Town)": {
+    "Silver 2 vs Fire": {
       "level": 31,
       "ability": "Flash Fire",
       "moves": [
@@ -2404,7 +2404,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 202
     },
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 39,
       "ability": "Flash Fire",
       "moves": [
@@ -2417,7 +2417,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 281
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2": {
+    "Rocket Hideout B1F Rocket Grunt 2": {
       "level": 58,
       "ability": "Flash Fire",
       "moves": [
@@ -2458,7 +2458,7 @@ var SETDEX_SV = {
     }
   },
   "Haunter": {
-    "Silver [FIRE] (Azalea Town)": {
+    "Silver 2 vs Fire": {
       "level": 31,
       "ability": "Levitate",
       "moves": [
@@ -2473,7 +2473,7 @@ var SETDEX_SV = {
     }
   },
   "Pupitar": {
-    "Silver [FIRE] (Azalea Town)": {
+    "Silver 2 vs Fire": {
       "level": 31,
       "ability": "Shed Skin",
       "moves": [
@@ -2488,7 +2488,7 @@ var SETDEX_SV = {
     }
   },
   "Feraligatr": {
-    "Silver [FIRE] (Azalea Town)": {
+    "Silver 2 vs Fire": {
       "level": 32,
       "ability": "Sheer Force",
       "moves": [
@@ -2501,7 +2501,7 @@ var SETDEX_SV = {
       "item": "Mystic Water",
       "index": 142
     },
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 44,
       "ability": "Sheer Force",
       "moves": [
@@ -2514,7 +2514,7 @@ var SETDEX_SV = {
       "item": "Life Orb",
       "index": 276
     },
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 68,
       "ability": "Sheer Force",
       "moves": [
@@ -2527,7 +2527,7 @@ var SETDEX_SV = {
       "item": "Mystic Water",
       "index": 764
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 84,
       "ability": "Sheer Force",
       "moves": [
@@ -2542,7 +2542,7 @@ var SETDEX_SV = {
     }
   },
   "Skarmory": {
-    "Silver [WATER] (Azalea Town)": {
+    "Silver 2 vs Water": {
       "level": 31,
       "ability": "Sturdy",
       "moves": [
@@ -2555,7 +2555,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 145
     },
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 40,
       "ability": "Sturdy",
       "moves": [
@@ -2568,7 +2568,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 271
     },
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 46,
       "ability": "Sturdy",
       "moves": [
@@ -2581,7 +2581,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 412
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 52,
       "ability": "Sturdy",
       "moves": [
@@ -2594,7 +2594,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 419
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 59,
       "ability": "Sturdy",
       "moves": [
@@ -2648,7 +2648,7 @@ var SETDEX_SV = {
     }
   },
   "Absol": {
-    "Silver [WATER] (Azalea Town)": {
+    "Silver 2 vs Water": {
       "level": 31,
       "ability": "Super Luck",
       "moves": [
@@ -2661,7 +2661,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 146
     },
-    "Rocket Grunt (Rocket Hideout B2F) #2": {
+    "Rocket Hideout B2F Rocket Grunt 2": {
       "level": 58,
       "ability": "Justified",
       "moves": [
@@ -2689,7 +2689,7 @@ var SETDEX_SV = {
     }
   },
   "Meganium": {
-    "Silver [WATER] (Azalea Town)": {
+    "Silver 2 vs Water": {
       "level": 32,
       "ability": "Leaf Guard",
       "moves": [
@@ -2702,7 +2702,7 @@ var SETDEX_SV = {
       "item": "Miracle Seed",
       "index": 147
     },
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 44,
       "ability": "Leaf Guard",
       "moves": [
@@ -2715,7 +2715,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 282
     },
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 68,
       "ability": "Leaf Guard",
       "moves": [
@@ -2728,7 +2728,7 @@ var SETDEX_SV = {
       "item": "Miracle Seed",
       "index": 770
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 84,
       "ability": "Leaf Guard",
       "moves": [
@@ -2859,7 +2859,7 @@ var SETDEX_SV = {
       "item": "Poison Barb",
       "index": 154
     },
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3 #4": {
+    "Rocket Hideout B2F Rocket Grunt 4": {
       "level": 57,
       "ability": "Intimidate",
       "moves": [
@@ -2872,7 +2872,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 544
     },
-    "Rocket Grunt (Underground) #2": {
+    "Underground Rocket Grunt 2": {
       "level": 64,
       "ability": "Intimidate",
       "moves": [
@@ -2915,7 +2915,7 @@ var SETDEX_SV = {
       "item": "Silk Scarf",
       "index": 156
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2": {
+    "Rocket Hideout B1F Rocket Grunt 2": {
       "level": 57,
       "ability": "Gluttony",
       "moves": [
@@ -3029,7 +3029,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 161
     },
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 40,
       "ability": "Justified",
       "moves": [
@@ -3055,7 +3055,7 @@ var SETDEX_SV = {
       "item": "Life Orb",
       "index": 334
     },
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3": {
+    "Rocket Hideout B2F Rocket Grunt 3": {
       "level": 58,
       "ability": "Justified",
       "moves": [
@@ -3081,7 +3081,7 @@ var SETDEX_SV = {
       "item": "Expert Belt",
       "index": 632
     },
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 67,
       "ability": "Justified",
       "moves": [
@@ -3094,7 +3094,7 @@ var SETDEX_SV = {
       "item": "Expert Belt",
       "index": 769
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 82,
       "ability": "Justified",
       "moves": [
@@ -3161,7 +3161,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 475
     },
-    "Rocket Grunt (Underground) #2 #3 #4": {
+    "Underground Rocket Grunt 4": {
       "level": 64,
       "ability": "Intimidate",
       "moves": [
@@ -3329,7 +3329,7 @@ var SETDEX_SV = {
     }
   },
   "Noctowl": {
-    "Crystal / Gold (Route 34)": {
+    "Crystal / Gold 2": {
       "level": 31,
       "ability": "Tinted Lens",
       "moves": [
@@ -3355,7 +3355,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 347
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 67,
       "ability": "Tinted Lens",
       "moves": [
@@ -3370,7 +3370,7 @@ var SETDEX_SV = {
     }
   },
   "Luxray": {
-    "Crystal / Gold (Route 34)": {
+    "Crystal / Gold 2": {
       "level": 31,
       "ability": "Intimidate",
       "moves": [
@@ -3409,7 +3409,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 315
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 67,
       "ability": "Guts",
       "moves": [
@@ -3437,7 +3437,7 @@ var SETDEX_SV = {
     }
   },
   "Sylveon": {
-    "Crystal / Gold (Route 34)": {
+    "Crystal / Gold 2": {
       "level": 32,
       "ability": "Pixilate",
       "moves": [
@@ -3476,7 +3476,7 @@ var SETDEX_SV = {
       "item": "Throat Spray",
       "index": 625
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 67,
       "ability": "Pixilate",
       "moves": [
@@ -3504,7 +3504,7 @@ var SETDEX_SV = {
     }
   },
   "Azumarill": {
-    "Crystal / Gold (Route 34)": {
+    "Crystal / Gold 2": {
       "level": 32,
       "ability": "Huge Power",
       "moves": [
@@ -3517,7 +3517,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 172
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 68,
       "ability": "Huge Power",
       "moves": [
@@ -3696,7 +3696,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 650
     },
-    "Rocket Grunt (Radio Tower 3F)": {
+    "Radio Tower 3F Rocket Grunt": {
       "level": 65,
       "ability": "Regenerator",
       "moves": [
@@ -3724,7 +3724,7 @@ var SETDEX_SV = {
       "item": "Loaded Dice",
       "index": 178
     },
-    "Rocket Grunt (Radio Tower 4F) #2": {
+    "Radio Tower 4F Rocket Grunt 2": {
       "level": 64,
       "ability": "Harvest",
       "moves": [
@@ -3877,7 +3877,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 596
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5 #6": {
+    "Underground Rocket Grunt 6": {
       "level": 64,
       "ability": "Sturdy",
       "moves": [
@@ -3918,7 +3918,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 358
     },
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 59,
       "ability": "Intimidate",
       "moves": [
@@ -3931,7 +3931,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 568
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 67,
       "ability": "Intimidate",
       "moves": [
@@ -3987,7 +3987,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 226
     },
-    "Rocket Eto (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Eto": {
       "level": 58,
       "ability": "Soundproof",
       "moves": [
@@ -4000,7 +4000,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 563
     },
-    "Rocket Eto (Underground)": {
+    "Underground Rocket Eto": {
       "level": 66,
       "ability": "Soundproof",
       "moves": [
@@ -4166,7 +4166,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 192
     },
-    "Rocket Grunt (Radio Tower 4F)": {
+    "Radio Tower 4F Rocket Grunt": {
       "level": 64,
       "ability": "Healer",
       "moves": [
@@ -4597,7 +4597,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 210
     },
-    "Rocket Grunt (Rocket Hideout B2F)": {
+    "Rocket Hideout B2F Rocket Grunt": {
       "level": 58,
       "ability": "Levitate",
       "moves": [
@@ -4610,7 +4610,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 536
     },
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 59,
       "ability": "Neutralizing Gas",
       "moves": [
@@ -4623,7 +4623,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 567
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 67,
       "ability": "Neutralizing Gas",
       "moves": [
@@ -4752,7 +4752,7 @@ var SETDEX_SV = {
       "item": "Spell Tag",
       "index": 216
     },
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 40,
       "ability": "Levitate",
       "moves": [
@@ -4983,7 +4983,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 363
     },
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 59,
       "ability": "Effect Spore",
       "moves": [
@@ -4996,7 +4996,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 547
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Effect Spore",
       "moves": [
@@ -5052,7 +5052,7 @@ var SETDEX_SV = {
       "item": "Mystic Water",
       "index": 224
     },
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 40,
       "ability": "Intimidate",
       "moves": [
@@ -5078,7 +5078,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 460
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Intimidate",
       "moves": [
@@ -5188,7 +5188,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 655
     },
-    "Rocket Grunt (Radio Tower 3F)": {
+    "Radio Tower 3F Rocket Grunt": {
       "level": 64,
       "ability": "Volt Absorb",
       "moves": [
@@ -5229,7 +5229,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 229
     },
-    "Rocket Grunt (Underground) #2 #3": {
+    "Underground Rocket Grunt 3": {
       "level": 64,
       "ability": "Serene Grace",
       "moves": [
@@ -5567,7 +5567,7 @@ var SETDEX_SV = {
       "item": "Silk Scarf",
       "index": 244
     },
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 59,
       "ability": "Technician",
       "moves": [
@@ -5580,7 +5580,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 566
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 67,
       "ability": "Technician",
       "moves": [
@@ -5744,7 +5744,7 @@ var SETDEX_SV = {
       "item": "Muscle Band",
       "index": 250
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2 #3": {
+    "Rocket Hideout B1F Rocket Grunt 3": {
       "level": 57,
       "ability": "Intimidate",
       "moves": [
@@ -5757,7 +5757,7 @@ var SETDEX_SV = {
       "item": "Silk Scarf",
       "index": 532
     },
-    "Rocket Grunt (Radio Tower 3F) #2 #3": {
+    "Radio Tower 3F Rocket Grunt 3": {
       "level": 65,
       "ability": "Anger Point",
       "moves": [
@@ -5824,7 +5824,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 251
     },
-    "Rocket Grunt (Radio Tower 3F) #2 #3": {
+    "Radio Tower 3F Rocket Grunt 3": {
       "level": 64,
       "ability": "Thick Fat",
       "moves": [
@@ -5919,7 +5919,7 @@ var SETDEX_SV = {
       "item": "Assault Vest",
       "index": 498
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4": {
+    "Radio Tower 1F-2F Rocket Grunt 4": {
       "level": 65,
       "ability": "Guts",
       "moves": [
@@ -5973,7 +5973,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 923
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 82,
       "ability": "Sharpness",
       "moves": [
@@ -6001,7 +6001,7 @@ var SETDEX_SV = {
     }
   },
   "Drapion": {
-    "Rocket Grunt (Ecruteak Theater)": {
+    "Ecruteak Theater Rocket Grunt": {
       "level": 37,
       "ability": "Battle Armor",
       "moves": [
@@ -6027,7 +6027,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 437
     },
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3 #4": {
+    "Rocket Hideout B2F Rocket Grunt 4": {
       "level": 58,
       "ability": "Battle Armor",
       "moves": [
@@ -6040,7 +6040,7 @@ var SETDEX_SV = {
       "item": "Poison Barb",
       "index": 545
     },
-    "Rocket Grunt (Underground) #2": {
+    "Underground Rocket Grunt 2": {
       "level": 65,
       "ability": "Battle Armor",
       "moves": [
@@ -6055,7 +6055,7 @@ var SETDEX_SV = {
     }
   },
   "Muk": {
-    "Rocket Grunt (Ecruteak Theater)": {
+    "Ecruteak Theater Rocket Grunt": {
       "level": 37,
       "ability": "Poison Touch",
       "moves": [
@@ -6068,7 +6068,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 257
     },
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 59,
       "ability": "Poison Touch",
       "moves": [
@@ -6094,7 +6094,7 @@ var SETDEX_SV = {
       "item": "Assault Vest",
       "index": 651
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3": {
+    "Radio Tower 1F-2F Rocket Grunt 3": {
       "level": 65,
       "ability": "Poison Touch",
       "moves": [
@@ -6107,7 +6107,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 672
     },
-    "Rocket Grunt (Underground) #2 #3 #4": {
+    "Underground Rocket Grunt 4": {
       "level": 65,
       "ability": "Poison Touch",
       "moves": [
@@ -6122,7 +6122,7 @@ var SETDEX_SV = {
     }
   },
   "Honchkrow": {
-    "Rocket Grunt (Ecruteak Theater)": {
+    "Ecruteak Theater Rocket Grunt": {
       "level": 38,
       "ability": "Moxie",
       "moves": [
@@ -6135,7 +6135,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 258
     },
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 40,
       "ability": "Super Luck",
       "moves": [
@@ -6161,7 +6161,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 481
     },
-    "Rocket Grunt (Rocket Hideout B2F)": {
+    "Rocket Hideout B2F Rocket Grunt": {
       "level": 57,
       "ability": "Moxie",
       "moves": [
@@ -6271,7 +6271,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 261
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2": {
+    "Radio Tower 1F-2F Rocket Grunt 2": {
       "level": 65,
       "ability": "Solid Rock",
       "moves": [
@@ -6312,7 +6312,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 262
     },
-    "Rocket Grunt (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Grunt": {
       "level": 58,
       "ability": "Illusion",
       "moves": [
@@ -6325,7 +6325,7 @@ var SETDEX_SV = {
       "item": "Expert Belt",
       "index": 561
     },
-    "Rocket Grunt (Radio Tower 3F) #2": {
+    "Radio Tower 3F Rocket Grunt 2": {
       "level": 65,
       "ability": "Illusion",
       "moves": [
@@ -6338,7 +6338,7 @@ var SETDEX_SV = {
       "item": "Choice Specs",
       "index": 687
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 67,
       "ability": "Illusion",
       "moves": [
@@ -6381,7 +6381,7 @@ var SETDEX_SV = {
     }
   },
   "Ampharos": {
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 39,
       "ability": "Static",
       "moves": [
@@ -6420,7 +6420,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 680
     },
-    "Crystal / Gold (Ice Path)": {
+    "Crystal / Gold 3": {
       "level": 67,
       "ability": "Static",
       "moves": [
@@ -6435,7 +6435,7 @@ var SETDEX_SV = {
     }
   },
   "Gliscor": {
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 40,
       "ability": "Poison Heal",
       "moves": [
@@ -6448,7 +6448,7 @@ var SETDEX_SV = {
       "item": "Toxic Orb",
       "index": 268
     },
-    "Rocket Grunt (Rocket Hideout B2F)": {
+    "Rocket Hideout B2F Rocket Grunt": {
       "level": 58,
       "ability": "Poison Heal",
       "moves": [
@@ -6474,7 +6474,7 @@ var SETDEX_SV = {
       "item": "Toxic Orb",
       "index": 615
     },
-    "Rocket Grunt (Underground) #2 #3": {
+    "Underground Rocket Grunt 3": {
       "level": 65,
       "ability": "Poison Heal",
       "moves": [
@@ -6489,7 +6489,7 @@ var SETDEX_SV = {
     }
   },
   "Typhlosion": {
-    "Silver [GRASS] (Burned Tower)": {
+    "Silver 3 vs Grass": {
       "level": 44,
       "ability": "Flash Fire",
       "moves": [
@@ -6502,7 +6502,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 270
     },
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 68,
       "ability": "Flash Fire",
       "moves": [
@@ -6515,7 +6515,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 758
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 84,
       "ability": "Flash Fire",
       "moves": [
@@ -6530,7 +6530,7 @@ var SETDEX_SV = {
     }
   },
   "Rhydon": {
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 39,
       "ability": "Lightning Rod",
       "moves": [
@@ -6545,7 +6545,7 @@ var SETDEX_SV = {
     }
   },
   "Alakazam": {
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 40,
       "ability": "Magic Guard",
       "moves": [
@@ -6612,7 +6612,7 @@ var SETDEX_SV = {
     }
   },
   "Dugtrio": {
-    "Silver [FIRE] (Burned Tower)": {
+    "Silver 3 vs Fire": {
       "level": 40,
       "ability": "Arena Trap",
       "moves": [
@@ -6653,7 +6653,7 @@ var SETDEX_SV = {
     }
   },
   "Crobat": {
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 40,
       "ability": "Infiltrator",
       "moves": [
@@ -6679,7 +6679,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 346
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2": {
+    "Rocket Hideout B1F Rocket Grunt 2": {
       "level": 58,
       "ability": "Infiltrator",
       "moves": [
@@ -6720,7 +6720,7 @@ var SETDEX_SV = {
     }
   },
   "Magnezone": {
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 40,
       "ability": "Magnet Pull",
       "moves": [
@@ -6746,7 +6746,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 383
     },
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 46,
       "ability": "Magnet Pull",
       "moves": [
@@ -6759,7 +6759,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 413
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 52,
       "ability": "Magnet Pull",
       "moves": [
@@ -6772,7 +6772,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 420
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 59,
       "ability": "Magnet Pull",
       "moves": [
@@ -6813,7 +6813,7 @@ var SETDEX_SV = {
     }
   },
   "Weavile": {
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 40,
       "ability": "Pressure",
       "moves": [
@@ -6852,7 +6852,7 @@ var SETDEX_SV = {
       "item": "Razor Claw",
       "index": 504
     },
-    "Rocket Eto (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Eto": {
       "level": 58,
       "ability": "Pressure",
       "moves": [
@@ -6865,7 +6865,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 564
     },
-    "Rocket Eto (Underground)": {
+    "Underground Rocket Eto": {
       "level": 66,
       "ability": "Pressure",
       "moves": [
@@ -6880,7 +6880,7 @@ var SETDEX_SV = {
     }
   },
   "Gengar": {
-    "Silver [WATER] (Burned Tower)": {
+    "Silver 3 vs Water": {
       "level": 40,
       "ability": "Cursed Body",
       "moves": [
@@ -6906,7 +6906,7 @@ var SETDEX_SV = {
       "item": "Ghostite",
       "index": 300
     },
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 59,
       "ability": "Cursed Body",
       "moves": [
@@ -7141,7 +7141,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 289
     },
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 59,
       "ability": "Overcoat",
       "moves": [
@@ -7154,7 +7154,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 570
     },
-    "Rocket Grunt (Underground) #2": {
+    "Underground Rocket Grunt 2": {
       "level": 64,
       "ability": "Overcoat",
       "moves": [
@@ -7182,7 +7182,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 290
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5": {
+    "Underground Rocket Grunt 5": {
       "level": 64,
       "ability": "Infiltrator",
       "moves": [
@@ -7264,7 +7264,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 553
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 67,
       "ability": "Levitate",
       "moves": [
@@ -7277,7 +7277,7 @@ var SETDEX_SV = {
       "item": "Magnet",
       "index": 710
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 82,
       "ability": "Levitate",
       "moves": [
@@ -7333,7 +7333,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 294
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2": {
+    "Radio Tower 1F-2F Rocket Grunt 2": {
       "level": 64,
       "ability": "Mummy",
       "moves": [
@@ -7361,7 +7361,7 @@ var SETDEX_SV = {
       "item": "Mental Herb",
       "index": 295
     },
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 46,
       "ability": "Cursed Body",
       "moves": [
@@ -7374,7 +7374,7 @@ var SETDEX_SV = {
       "item": "Spell Tag",
       "index": 506
     },
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 52,
       "ability": "Cursed Body",
       "moves": [
@@ -7387,7 +7387,7 @@ var SETDEX_SV = {
       "item": "Spell Tag",
       "index": 512
     },
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 59,
       "ability": "Cursed Body",
       "moves": [
@@ -7430,7 +7430,7 @@ var SETDEX_SV = {
       "item": "Fairy Feather",
       "index": 297
     },
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 67,
       "ability": "Disguise",
       "moves": [
@@ -7499,7 +7499,7 @@ var SETDEX_SV = {
       "item": "Spell Tag",
       "index": 299
     },
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 67,
       "ability": "Flash Fire",
       "moves": [
@@ -7678,7 +7678,7 @@ var SETDEX_SV = {
       "item": "Twisted Spoon",
       "index": 382
     },
-    "Rocket Grunt (Radio Tower 3F) #2": {
+    "Radio Tower 3F Rocket Grunt 2": {
       "level": 64,
       "ability": "Trace",
       "moves": [
@@ -7719,7 +7719,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 367
     },
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 47,
       "ability": "Water Absorb",
       "moves": [
@@ -7732,7 +7732,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 508
     },
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 53,
       "ability": "Water Absorb",
       "moves": [
@@ -7745,7 +7745,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 514
     },
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 60,
       "ability": "Water Absorb",
       "moves": [
@@ -8004,7 +8004,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 312
     },
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 46,
       "ability": "Water Absorb",
       "moves": [
@@ -8017,7 +8017,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 396
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 52,
       "ability": "Water Absorb",
       "moves": [
@@ -8030,7 +8030,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 402
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 59,
       "ability": "Water Absorb",
       "moves": [
@@ -8192,7 +8192,7 @@ var SETDEX_SV = {
       "item": "Dragon Fang",
       "index": 484
     },
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 67,
       "ability": "Sniper",
       "moves": [
@@ -8244,7 +8244,7 @@ var SETDEX_SV = {
       "item": "Mystic Water",
       "index": 887
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 82,
       "ability": "Sniper",
       "moves": [
@@ -8272,7 +8272,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 317
     },
-    "Rocket Grunt (Rocket Hideout B2F) #2": {
+    "Rocket Hideout B2F Rocket Grunt 2": {
       "level": 57,
       "ability": "Clear Body",
       "moves": [
@@ -8285,7 +8285,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 538
     },
-    "Rocket Grunt (Underground)": {
+    "Underground Rocket Grunt": {
       "level": 64,
       "ability": "Clear Body",
       "moves": [
@@ -8451,7 +8451,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 330
     },
-    "Rocket Grunt (Radio Tower 1F-2F)": {
+    "Radio Tower 1F-2F Rocket Grunt": {
       "level": 64,
       "ability": "Flash Fire",
       "moves": [
@@ -8492,7 +8492,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 325
     },
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 46,
       "ability": "Regenerator",
       "moves": [
@@ -8505,7 +8505,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 395
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 52,
       "ability": "Regenerator",
       "moves": [
@@ -8518,7 +8518,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 401
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 59,
       "ability": "Regenerator",
       "moves": [
@@ -8531,7 +8531,7 @@ var SETDEX_SV = {
       "item": "Black Belt",
       "index": 407
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4": {
+    "Radio Tower 1F-2F Rocket Grunt 4": {
       "level": 64,
       "ability": "Regenerator",
       "moves": [
@@ -8695,7 +8695,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 476
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4 #5": {
+    "Radio Tower 1F-2F Rocket Grunt 5": {
       "level": 65,
       "ability": "Reckless",
       "moves": [
@@ -8723,7 +8723,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 333
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3": {
+    "Radio Tower 1F-2F Rocket Grunt 3": {
       "level": 65,
       "ability": "Gale Wings",
       "moves": [
@@ -8818,7 +8818,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 370
     },
-    "Rocket Grunt (Radio Tower 1F-2F)": {
+    "Radio Tower 1F-2F Rocket Grunt": {
       "level": 65,
       "ability": "Speed Boost",
       "moves": [
@@ -8915,7 +8915,7 @@ var SETDEX_SV = {
       "item": "Punching Glove",
       "index": 497
     },
-    "Rocket Grunt (Underground) #2 #3 #4": {
+    "Underground Rocket Grunt 4": {
       "level": 64,
       "ability": "Iron Fist",
       "moves": [
@@ -9010,7 +9010,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 355
     },
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 60,
       "ability": "Adaptability",
       "moves": [
@@ -9023,7 +9023,7 @@ var SETDEX_SV = {
       "item": "Wise Glasses",
       "index": 552
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Adaptability",
       "moves": [
@@ -9213,7 +9213,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 464
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Regenerator",
       "moves": [
@@ -9323,7 +9323,7 @@ var SETDEX_SV = {
       "item": "Never-Melt Ice",
       "index": 488
     },
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 46,
       "ability": "Skill Link",
       "moves": [
@@ -9336,7 +9336,7 @@ var SETDEX_SV = {
       "item": "White Herb",
       "index": 507
     },
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 52,
       "ability": "Skill Link",
       "moves": [
@@ -9349,7 +9349,7 @@ var SETDEX_SV = {
       "item": "White Herb",
       "index": 513
     },
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 59,
       "ability": "Skill Link",
       "moves": [
@@ -9487,7 +9487,7 @@ var SETDEX_SV = {
       "item": "Dragotite",
       "index": 818
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 82,
       "ability": "Multiscale",
       "moves": [
@@ -9541,7 +9541,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 385
     },
-    "Rocket Grunt (Underground)": {
+    "Underground Rocket Grunt": {
       "level": 64,
       "ability": "Emergency Exit",
       "moves": [
@@ -9584,7 +9584,7 @@ var SETDEX_SV = {
       "item": "Chesto Berry",
       "index": 392
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2 #3": {
+    "Rocket Hideout B1F Rocket Grunt 3": {
       "level": 58,
       "ability": "Thick Fat",
       "moves": [
@@ -9612,7 +9612,7 @@ var SETDEX_SV = {
     }
   },
   "Hitmontop": {
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 46,
       "ability": "Intimidate",
       "moves": [
@@ -9625,7 +9625,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 394
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 52,
       "ability": "Intimidate",
       "moves": [
@@ -9638,7 +9638,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 400
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 59,
       "ability": "Intimidate",
       "moves": [
@@ -9692,7 +9692,7 @@ var SETDEX_SV = {
     }
   },
   "Flamigo": {
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 47,
       "ability": "Scrappy",
       "moves": [
@@ -9705,7 +9705,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 397
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 53,
       "ability": "Scrappy",
       "moves": [
@@ -9718,7 +9718,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 403
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 60,
       "ability": "Scrappy",
       "moves": [
@@ -9731,7 +9731,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 409
     },
-    "Rocket Grunt (Radio Tower 4F) #2": {
+    "Radio Tower 4F Rocket Grunt 2": {
       "level": 65,
       "ability": "Scrappy",
       "moves": [
@@ -9746,7 +9746,7 @@ var SETDEX_SV = {
     }
   },
   "Kommo-o": {
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 46,
       "ability": "Bulletproof",
       "moves": [
@@ -9759,7 +9759,7 @@ var SETDEX_SV = {
       "item": "Dragon Fang",
       "index": 398
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 52,
       "ability": "Bulletproof",
       "moves": [
@@ -9772,7 +9772,7 @@ var SETDEX_SV = {
       "item": "Dragon Fang",
       "index": 404
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 59,
       "ability": "Bulletproof",
       "moves": [
@@ -9785,7 +9785,7 @@ var SETDEX_SV = {
       "item": "Throat Spray",
       "index": 410
     },
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 67,
       "ability": "Bulletproof",
       "moves": [
@@ -9826,7 +9826,7 @@ var SETDEX_SV = {
     }
   },
   "Annihilape": {
-    "Leader Chuck [5th badge]": {
+    "Leader Chuck 5th Badge": {
       "level": 47,
       "ability": "Defiant",
       "moves": [
@@ -9839,7 +9839,7 @@ var SETDEX_SV = {
       "item": "Punching Glove",
       "index": 399
     },
-    "Leader Chuck [6th badge]": {
+    "Leader Chuck 6th Badge": {
       "level": 53,
       "ability": "Defiant",
       "moves": [
@@ -9852,7 +9852,7 @@ var SETDEX_SV = {
       "item": "Punching Glove",
       "index": 405
     },
-    "Leader Chuck [7th badge]": {
+    "Leader Chuck 7th Badge": {
       "level": 60,
       "ability": "Defiant",
       "moves": [
@@ -9893,7 +9893,7 @@ var SETDEX_SV = {
     }
   },
   "Tinkaton": {
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 46,
       "ability": "Mold Breaker",
       "moves": [
@@ -9906,7 +9906,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 414
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 52,
       "ability": "Mold Breaker",
       "moves": [
@@ -9919,7 +9919,7 @@ var SETDEX_SV = {
       "item": "Sitrus Berry",
       "index": 421
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 59,
       "ability": "Mold Breaker",
       "moves": [
@@ -9947,7 +9947,7 @@ var SETDEX_SV = {
     }
   },
   "Empoleon": {
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 47,
       "ability": "Competitive",
       "moves": [
@@ -9960,7 +9960,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 415
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 53,
       "ability": "Competitive",
       "moves": [
@@ -9973,7 +9973,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 422
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 60,
       "ability": "Competitive",
       "moves": [
@@ -10001,7 +10001,7 @@ var SETDEX_SV = {
     }
   },
   "Scizor": {
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 46,
       "ability": "Technician",
       "moves": [
@@ -10014,7 +10014,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 416
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 52,
       "ability": "Technician",
       "moves": [
@@ -10027,7 +10027,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 423
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 59,
       "ability": "Technician",
       "moves": [
@@ -10053,7 +10053,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 441
     },
-    "Rocket Grunt (Radio Tower 4F)": {
+    "Radio Tower 4F Rocket Grunt": {
       "level": 65,
       "ability": "Technician",
       "moves": [
@@ -10066,7 +10066,7 @@ var SETDEX_SV = {
       "item": "Choice Band",
       "index": 696
     },
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 67,
       "ability": "Technician",
       "moves": [
@@ -10092,7 +10092,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 891
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 82,
       "ability": "Technician",
       "moves": [
@@ -10107,7 +10107,7 @@ var SETDEX_SV = {
     }
   },
   "Steelix": {
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 47,
       "ability": "Sheer Force",
       "moves": [
@@ -10120,7 +10120,7 @@ var SETDEX_SV = {
       "item": "Steeltite",
       "index": 417
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 53,
       "ability": "Sheer Force",
       "moves": [
@@ -10133,7 +10133,7 @@ var SETDEX_SV = {
       "item": "Steeltite",
       "index": 424
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 60,
       "ability": "Sheer Force",
       "moves": [
@@ -10187,7 +10187,7 @@ var SETDEX_SV = {
     }
   },
   "Steelix-Mega": {
-    "Leader Jasmine [5th badge]": {
+    "Leader Jasmine 5th Badge": {
       "level": 47,
       "ability": "Sand Force",
       "moves": [
@@ -10200,7 +10200,7 @@ var SETDEX_SV = {
       "item": "Steeltite",
       "index": 418
     },
-    "Leader Jasmine [6th badge]": {
+    "Leader Jasmine 6th Badge": {
       "level": 53,
       "ability": "Sand Force",
       "moves": [
@@ -10213,7 +10213,7 @@ var SETDEX_SV = {
       "item": "Steeltite",
       "index": 425
     },
-    "Leader Jasmine [7th badge]": {
+    "Leader Jasmine 7th Badge": {
       "level": 60,
       "ability": "Sand Force",
       "moves": [
@@ -10241,7 +10241,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 433
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4 #5": {
+    "Radio Tower 1F-2F Rocket Grunt 5": {
       "level": 64,
       "ability": "Sheer Force",
       "moves": [
@@ -10379,7 +10379,7 @@ var SETDEX_SV = {
       "item": "Smooth Rock",
       "index": 442
     },
-    "Rocket Eto (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Eto": {
       "level": 58,
       "ability": "Sand Stream",
       "moves": [
@@ -10392,7 +10392,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 562
     },
-    "Rocket Eto (Underground)": {
+    "Underground Rocket Eto": {
       "level": 66,
       "ability": "Sand Stream",
       "moves": [
@@ -10433,7 +10433,7 @@ var SETDEX_SV = {
       "item": "Soft Sand",
       "index": 444
     },
-    "Rocket Grunt (Rocket Hideout B1F) #2 #3": {
+    "Rocket Hideout B1F Rocket Grunt 3": {
       "level": 58,
       "ability": "Mold Breaker",
       "moves": [
@@ -10532,7 +10532,7 @@ var SETDEX_SV = {
       "item": "Light Clay",
       "index": 451
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5": {
+    "Underground Rocket Grunt 5": {
       "level": 64,
       "ability": "Prankster",
       "moves": [
@@ -10560,7 +10560,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 453
     },
-    "Rocket Grunt (Underground) #2 #3": {
+    "Underground Rocket Grunt 3": {
       "level": 64,
       "ability": "Clear Body",
       "moves": [
@@ -10586,7 +10586,7 @@ var SETDEX_SV = {
       "item": "Assault Vest",
       "index": 895
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 83,
       "ability": "Clear Body",
       "moves": [
@@ -10614,7 +10614,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 459
     },
-    "Rocket Eto (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Eto": {
       "level": 59,
       "ability": "Intimidate",
       "moves": [
@@ -10627,7 +10627,7 @@ var SETDEX_SV = {
       "item": "Soft Sand",
       "index": 565
     },
-    "Rocket Grunt (Radio Tower 3F) #2": {
+    "Radio Tower 3F Rocket Grunt 2": {
       "level": 64,
       "ability": "Intimidate",
       "moves": [
@@ -10640,7 +10640,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 686
     },
-    "Rocket Eto (Underground)": {
+    "Underground Rocket Eto": {
       "level": 67,
       "ability": "Intimidate",
       "moves": [
@@ -10836,7 +10836,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 479
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4": {
+    "Radio Tower 1F-2F Rocket Grunt 4": {
       "level": 65,
       "ability": "Vital Spirit",
       "moves": [
@@ -11094,7 +11094,7 @@ var SETDEX_SV = {
     }
   },
   "Abomasnow": {
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 46,
       "ability": "Snow Warning",
       "moves": [
@@ -11107,7 +11107,7 @@ var SETDEX_SV = {
       "item": "Light Clay",
       "index": 505
     },
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 52,
       "ability": "Snow Warning",
       "moves": [
@@ -11120,7 +11120,7 @@ var SETDEX_SV = {
       "item": "Light Clay",
       "index": 511
     },
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 59,
       "ability": "Snow Warning",
       "moves": [
@@ -11187,7 +11187,7 @@ var SETDEX_SV = {
     }
   },
   "Walrein": {
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 46,
       "ability": "Thick Fat",
       "moves": [
@@ -11202,7 +11202,7 @@ var SETDEX_SV = {
     }
   },
   "Mamoswine": {
-    "Leader Pryce [5th badge]": {
+    "Leader Pryce 5th Badge": {
       "level": 47,
       "ability": "Thick Fat",
       "moves": [
@@ -11215,7 +11215,7 @@ var SETDEX_SV = {
       "item": "Loaded Dice",
       "index": 510
     },
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 53,
       "ability": "Thick Fat",
       "moves": [
@@ -11228,7 +11228,7 @@ var SETDEX_SV = {
       "item": "Loaded Dice",
       "index": 516
     },
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 60,
       "ability": "Thick Fat",
       "moves": [
@@ -11241,7 +11241,7 @@ var SETDEX_SV = {
       "item": "Loaded Dice",
       "index": 522
     },
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 67,
       "ability": "Thick Fat",
       "moves": [
@@ -11256,7 +11256,7 @@ var SETDEX_SV = {
     }
   },
   "Glalie": {
-    "Leader Pryce [6th badge]": {
+    "Leader Pryce 6th Badge": {
       "level": 52,
       "ability": "Inner Focus",
       "moves": [
@@ -11271,7 +11271,7 @@ var SETDEX_SV = {
     }
   },
   "Baxcalibur": {
-    "Leader Pryce [7th badge]": {
+    "Leader Pryce 7th Badge": {
       "level": 59,
       "ability": "Thermal Exchange",
       "moves": [
@@ -11310,7 +11310,7 @@ var SETDEX_SV = {
       "item": "Never-Melt Ice",
       "index": 894
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 83,
       "ability": "Thermal Exchange",
       "moves": [
@@ -11325,7 +11325,7 @@ var SETDEX_SV = {
     }
   },
   "Scolipede": {
-    "Rocket Grunt (Rocket Hideout B1F)": {
+    "Rocket Hideout B1F Rocket Grunt": {
       "level": 58,
       "ability": "Speed Boost",
       "moves": [
@@ -11338,7 +11338,7 @@ var SETDEX_SV = {
       "item": "Silver Powder",
       "index": 528
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3 #4 #5": {
+    "Radio Tower 1F-2F Rocket Grunt 5": {
       "level": 65,
       "ability": "Speed Boost",
       "moves": [
@@ -11353,7 +11353,7 @@ var SETDEX_SV = {
     }
   },
   "Toxtricity": {
-    "Rocket Grunt (Rocket Hideout B2F) #2": {
+    "Rocket Hideout B2F Rocket Grunt 2": {
       "level": 58,
       "ability": "Punk Rock",
       "moves": [
@@ -11368,7 +11368,7 @@ var SETDEX_SV = {
     }
   },
   "Tyranitar": {
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3": {
+    "Rocket Hideout B2F Rocket Grunt 3": {
       "level": 57,
       "ability": "Sand Stream",
       "moves": [
@@ -11394,7 +11394,7 @@ var SETDEX_SV = {
       "item": "Smooth Rock",
       "index": 589
     },
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 67,
       "ability": "Sand Stream",
       "moves": [
@@ -11420,7 +11420,7 @@ var SETDEX_SV = {
       "item": "Chople Berry",
       "index": 890
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 82,
       "ability": "Sand Stream",
       "moves": [
@@ -11448,7 +11448,7 @@ var SETDEX_SV = {
     }
   },
   "Haxorus": {
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3": {
+    "Rocket Hideout B2F Rocket Grunt 3": {
       "level": 58,
       "ability": "Mold Breaker",
       "moves": [
@@ -11489,7 +11489,7 @@ var SETDEX_SV = {
     }
   },
   "Obstagoon": {
-    "Rocket Grunt (Rocket Hideout B2F) #2 #3 #4": {
+    "Rocket Hideout B2F Rocket Grunt 4": {
       "level": 58,
       "ability": "Guts",
       "moves": [
@@ -11504,7 +11504,7 @@ var SETDEX_SV = {
     }
   },
   "Sneasler": {
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 59,
       "ability": "Unburden",
       "moves": [
@@ -11517,7 +11517,7 @@ var SETDEX_SV = {
       "item": "White Herb",
       "index": 549
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Unburden",
       "moves": [
@@ -11532,7 +11532,7 @@ var SETDEX_SV = {
     }
   },
   "Goodra": {
-    "Executive Ariana": {
+    "Rocket Hideout B2F Executive Ariana": {
       "level": 59,
       "ability": "Sap Sipper",
       "moves": [
@@ -11545,7 +11545,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 551
     },
-    "Executive Ariana (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Ariana": {
       "level": 68,
       "ability": "Sap Sipper",
       "moves": [
@@ -11599,7 +11599,7 @@ var SETDEX_SV = {
       "item": "Hard Stone",
       "index": 557
     },
-    "Rocket Grunt (Radio Tower 1F-2F) #2": {
+    "Radio Tower 1F-2F Rocket Grunt 2": {
       "level": 65,
       "ability": "Rock Head",
       "moves": [
@@ -11642,7 +11642,7 @@ var SETDEX_SV = {
     }
   },
   "Cacturne": {
-    "Rocket Grunt (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Grunt": {
       "level": 57,
       "ability": "Water Absorb",
       "moves": [
@@ -11657,7 +11657,7 @@ var SETDEX_SV = {
     }
   },
   "Dusknoir": {
-    "Rocket Grunt (Rocket Hideout B3F)": {
+    "Rocket Hideout B3F Rocket Grunt": {
       "level": 57,
       "ability": "Frisk",
       "moves": [
@@ -11685,7 +11685,7 @@ var SETDEX_SV = {
     }
   },
   "Pyroar": {
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 59,
       "ability": "Unnerve",
       "moves": [
@@ -11698,7 +11698,7 @@ var SETDEX_SV = {
       "item": "Charcoal",
       "index": 569
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 67,
       "ability": "Unnerve",
       "moves": [
@@ -11713,7 +11713,7 @@ var SETDEX_SV = {
     }
   },
   "Kingambit": {
-    "Executive Petrel": {
+    "Rocket Hideout B3F Executive Petrel": {
       "level": 60,
       "ability": "Supreme Overlord",
       "moves": [
@@ -11726,7 +11726,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 571
     },
-    "Executive Petrel (Radio Tower 5F)": {
+    "Radio Tower 5F Executive Petrel": {
       "level": 68,
       "ability": "Supreme Overlord",
       "moves": [
@@ -11739,7 +11739,7 @@ var SETDEX_SV = {
       "item": "Black Glasses",
       "index": 711
     },
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 67,
       "ability": "Supreme Overlord",
       "moves": [
@@ -11752,7 +11752,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 760
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 82,
       "ability": "Supreme Overlord",
       "moves": [
@@ -11806,7 +11806,7 @@ var SETDEX_SV = {
       "item": "Black Sludge",
       "index": 663
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5 #6": {
+    "Underground Rocket Grunt 6": {
       "level": 65,
       "ability": "Unaware",
       "moves": [
@@ -11946,7 +11946,7 @@ var SETDEX_SV = {
       "item": "Heavy-Duty Boots",
       "index": 580
     },
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 67,
       "ability": "Flame Body",
       "moves": [
@@ -11972,7 +11972,7 @@ var SETDEX_SV = {
       "item": "Heavy-Duty Boots",
       "index": 926
     },
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 82,
       "ability": "Flame Body",
       "moves": [
@@ -12028,7 +12028,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 583
     },
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 67,
       "ability": "Rough Skin",
       "moves": [
@@ -12054,7 +12054,7 @@ var SETDEX_SV = {
       "item": "Rocky Helmet",
       "index": 812
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 83,
       "ability": "Rough Skin",
       "moves": [
@@ -12170,7 +12170,7 @@ var SETDEX_SV = {
       "item": "Metal Coat",
       "index": 593
     },
-    "Rocket Grunt (Radio Tower 1F-2F)": {
+    "Radio Tower 1F-2F Rocket Grunt": {
       "level": 64,
       "ability": "Tough Claws",
       "moves": [
@@ -12353,7 +12353,7 @@ var SETDEX_SV = {
       "item": "Focus Sash",
       "index": 605
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5 #6": {
+    "Underground Rocket Grunt 6": {
       "level": 64,
       "ability": "Toxic Debris",
       "moves": [
@@ -12422,7 +12422,7 @@ var SETDEX_SV = {
       "item": "Leftovers",
       "index": 607
     },
-    "Rocket Grunt (Underground) #2 #3 #4 #5": {
+    "Underground Rocket Grunt 5": {
       "level": 65,
       "ability": "Good as Gold",
       "moves": [
@@ -12435,7 +12435,7 @@ var SETDEX_SV = {
       "item": "Wise Glasses",
       "index": 745
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 82,
       "ability": "Good as Gold",
       "moves": [
@@ -12575,7 +12575,7 @@ var SETDEX_SV = {
       "item": "Miracle Seed",
       "index": 612
     },
-    "Rocket Grunt (Radio Tower 4F) #2": {
+    "Radio Tower 4F Rocket Grunt 2": {
       "level": 64,
       "ability": "Long Reach",
       "moves": [
@@ -13025,7 +13025,7 @@ var SETDEX_SV = {
       "item": "Sharp Beak",
       "index": 643
     },
-    "Rocket Grunt (Radio Tower 3F)": {
+    "Radio Tower 3F Rocket Grunt": {
       "level": 64,
       "ability": "Infiltrator",
       "moves": [
@@ -13126,7 +13126,7 @@ var SETDEX_SV = {
     }
   },
   "Roserade": {
-    "Rocket Grunt (Radio Tower 1F-2F) #2 #3": {
+    "Radio Tower 1F-2F Rocket Grunt 3": {
       "level": 64,
       "ability": "Poison Point",
       "moves": [
@@ -13156,7 +13156,7 @@ var SETDEX_SV = {
     }
   },
   "Gogoat": {
-    "Rocket Grunt (Radio Tower 3F) #2 #3": {
+    "Radio Tower 3F Rocket Grunt 3": {
       "level": 64,
       "ability": "Sap Sipper",
       "moves": [
@@ -13186,7 +13186,7 @@ var SETDEX_SV = {
     }
   },
   "Dragapult": {
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 67,
       "ability": "Infiltrator",
       "moves": [
@@ -13199,7 +13199,7 @@ var SETDEX_SV = {
       "item": "Spell Tag",
       "index": 753
     },
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 82,
       "ability": "Infiltrator",
       "moves": [
@@ -13227,7 +13227,7 @@ var SETDEX_SV = {
     }
   },
   "Iron Valiant": {
-    "Silver [GRASS] (Underground)": {
+    "Silver 4 vs Grass": {
       "level": 67,
       "ability": "Quark Drive",
       "moves": [
@@ -13242,7 +13242,7 @@ var SETDEX_SV = {
     }
   },
   "Hydreigon": {
-    "Silver [FIRE] (Underground)": {
+    "Silver 4 vs Fire": {
       "level": 67,
       "ability": "Levitate",
       "moves": [
@@ -13268,7 +13268,7 @@ var SETDEX_SV = {
       "item": "Expert Belt",
       "index": 905
     },
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 82,
       "ability": "Levitate",
       "moves": [
@@ -13296,7 +13296,7 @@ var SETDEX_SV = {
     }
   },
   "Salamence": {
-    "Silver [WATER] (Underground)": {
+    "Silver 4 vs Water": {
       "level": 67,
       "ability": "Intimidate",
       "moves": [
@@ -13481,7 +13481,7 @@ var SETDEX_SV = {
     }
   },
   "Metagross-Mega": {
-    "Silver [GRASS] (Victory Road)": {
+    "Silver 5 vs Grass": {
       "level": 83,
       "ability": "Tough Claws",
       "moves": [
@@ -13496,7 +13496,7 @@ var SETDEX_SV = {
     }
   },
   "Garchomp-Mega": {
-    "Silver [FIRE] (Victory Road)": {
+    "Silver 5 vs Fire": {
       "level": 83,
       "ability": "Sand Force",
       "moves": [
@@ -13511,7 +13511,7 @@ var SETDEX_SV = {
     }
   },
   "Baxcalibur-Mega": {
-    "Silver [WATER] (Victory Road)": {
+    "Silver 5 vs Water": {
       "level": 83,
       "ability": "Hyper Cutter",
       "moves": [

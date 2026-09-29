@@ -8,7 +8,7 @@ var TRAINERS_AUTO_DOUBLES = [
  "Bird Keeper Toby",
  "Beauty Valerie",
  "Psychic Norman",
- "Rocket Grunt (Rocket Hideout B2F)",
+ "Rocket Hideout B2F Rocket Grunt",
  "Young Couple Thom & Kae",
  "Young Couple Duff & Eda",
  "Twins Lea & Pia",
