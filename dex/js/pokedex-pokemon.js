@@ -102,13 +102,14 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
     buf += "</dl>";
 
     // SoulGold: innate abilities unlock at Lv 75 / 85 / 95 and stack with the regular ability
-    if (pokemon.innates && pokemon.innates.length) {
+    var innates = (window.BattlePokedex && BattlePokedex[pokemon.id] && BattlePokedex[pokemon.id].innates) || [];
+    if (innates.length) {
       buf += '<dl class="abilityentry">';
       buf += '<dt>Innates:</dt> <dd class="imgentry">';
       var unlockLv = [75, 85, 95];
-      for (var ii = 0; ii < pokemon.innates.length; ii++) {
+      for (var ii = 0; ii < innates.length; ii++) {
         if (ii) buf += " | ";
-        buf += '<a href="' + DEXROOT + 'abilities/' + toID(pokemon.innates[ii]) + '" data-target="push">' + pokemon.innates[ii] + '</a><small> (Lv ' + unlockLv[ii] + ')</small>';
+        buf += '<a href="' + DEXROOT + 'abilities/' + toID(innates[ii]) + '" data-target="push">' + innates[ii] + '</a><small> (Lv ' + unlockLv[ii] + ')</small>';
       }
       buf += "</dd>";
       buf += "</dl>";
