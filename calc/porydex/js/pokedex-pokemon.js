@@ -613,7 +613,8 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
                 let slot = for_mode['encs'][i];
                 let species = slot['species'];
                 if (species === pokemon) {
-                    sum_rate += rates[enc_mode][i];
+                    var modeRates = Array.isArray(rates[enc_mode]) ? rates[enc_mode] : [].concat(rates[enc_mode].old || [], rates[enc_mode].good || [], rates[enc_mode].super || []);
+                    sum_rate += modeRates[i] || 0;
                 }
             }
 
