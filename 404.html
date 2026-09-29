@@ -1,0 +1,8 @@
+<!doctype html>
+<meta charset="utf-8"><title>SoulGold Reference</title>
+<script>
+  // GitHub Pages serves this for unknown paths: deep dex links go back through the dex with ?p=<path>
+  var p = location.pathname, i = p.indexOf('/dex/');
+  if (i >= 0) location.replace(p.slice(0, i + 5) + '?p=' + encodeURIComponent(p.slice(i + 5)) + location.hash);
+  else location.replace(p.slice(0, p.indexOf('/', 1) + 1) || '/');
+</script>

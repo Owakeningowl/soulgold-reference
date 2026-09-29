@@ -1,0 +1,105 @@
+<!doctype html>
+<html class="dark-mode">
+  <head>
+    <script>
+      // the dex can live in any folder (GitHub Pages): links and routes hang off DEXROOT
+      var DEXROOT = (function () {
+        var p = location.pathname, i = p.indexOf('/dex/');
+        return i >= 0 ? p.slice(0, i + 5) : '/';
+      })();
+      document.write('<base href="' + DEXROOT + '">');
+      (function () {  // deep links arrive through 404.html as ?p=<path>
+        var m = location.search.match(/[?&]p=([^&]*)/);
+        if (m) history.replaceState(null, '', DEXROOT + decodeURIComponent(m[1]));
+      })();
+    </script>
+    <meta charset="utf-8" />
+
+    <title>SoulGold Dex</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
+    <link
+      rel="stylesheet"
+      href="https://play.pokemonshowdown.com/style/font-awesome.css"
+    />
+    <link rel="stylesheet" href="theme/panels.css?b1" />
+    <link rel="stylesheet" href="theme/main.css?b1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://play.pokemonshowdown.com/style/utilichart.css?b359"
+    />
+    <link rel="stylesheet" href="theme/pokedex.css?b359" />
+	<link rel="stylesheet" href="theme/dark.css?v2" />
+
+    <!-- Workarounds for IE bugs to display trees correctly. -->
+    <!--[if lte IE 6
+      ]><style>
+        li.tree {
+          height: 1px;
+        }
+      </style><!
+    [endif]-->
+    <!--[if IE 7
+      ]><style>
+        li.tree {
+          zoom: 1;
+        }
+      </style><!
+    [endif]-->
+  </head>
+  <body>
+    <div class="pfx-topbar">
+      <div class="header">
+        <ul class="nav">
+          <li><a class="button nav-first" href="../trainers.html">Trainer Sheet</a></li>
+          <li><a class="button" href="./">Pok&eacute;dex</a></li>
+          <li><a class="button" href="../calc.html">Calculator</a></li>
+          <li><a class="button nav-last" href="../">Home</a></li>
+        </ul>
+        <div style="clear: both"></div>
+      </div>
+    </div>
+    <div class="pfx-panel">
+      <div class="pfx-body">
+        <noscript
+          ><p>
+            <strong>Requires JavaScript!</strong>
+          </p></noscript
+        >
+        <p>Loading...</p>
+      </div>
+    </div>
+    <script src="js/lib/jquery-1.12.4.min.js"></script>
+    <script src="js/lib/lodash.min.js"></script>
+    <script src="js/lib/backbone-min.js"></script>
+    <script src="js/panels.js"></script>
+
+    <!-- Dependencies from the original Showdown dex; these are very explicitly unmodified for compatibility -->
+    <script src="config/config.js?v0.9xy31"></script>
+    <script src="js/battledata.js?v0.9xy31"></script>
+    "
+    <script src="data/search-index.js?v0.9xy31"></script>
+    <!-- This guy needs to be generated using the client repo -->
+    <script src="https://play.pokemonshowdown.com/data/teambuilder-tables.js?v0.9xy31"></script>
+    <script src="data/typechart.js?v0.9xy31"></script>
+    <script src="https://play.pokemonshowdown.com/data/aliases.js?v0.9xy31"></script>
+    <script src="js/battle-dex-search.js?v0.9xy31"></script>
+    <script src="js/search.js?v0.9xy31"></script>
+
+    <!-- Custom data files pulled from porydex extraction -->
+    <script src="data/species.js?v0.9xy31"></script>
+    <script src="data/learnsets.js?v0.9xy31"></script>
+    <script src="data/encounters.js?v0.9xy31"></script>
+    <script src="data/moves.js?v0.9xy31"></script>
+    <script src="data/abilities.js?v0.9xy31"></script>
+    <script src="data/items.js?v0.9xy31"></script>
+
+    <script src="js/pokedex.js?b359"></script>
+    <script src="js/pokedex-pokemon.js?b359"></script>
+    <script src="js/pokedex-moves.js?b359"></script>
+    <script src="js/pokedex-encounters.js?b359"></script>
+    <script src="js/pokedex-search.js?b359"></script>
+    <script src="js/router.js?b359"></script>
+  </body>
+</html>
